@@ -1,0 +1,28 @@
+# Python编程：从入门到实践 - 项目依赖包
+
+# 基础包
+requests>=2.28.0
+
+# 项目一：外星人入侵游戏 (第12-14章)
+pygame>=2.1.0
+
+# 项目二：数据可视化 (第15-17章)
+matplotlib>=3.5.0
+plotly>=5.10.0
+pandas>=1.4.0
+numpy>=1.21.0
+
+# 项目三：学习笔记Web应用 (第18-20章)
+Django>=4.1.0
+django-bootstrap4>=22.1
+
+# 测试相关
+pytest>=7.1.0
+
+# 数据处理和分析
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# 开发工具
+autopep8>=1.6.0
+flake8>=4.0.0 
